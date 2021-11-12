@@ -18,7 +18,12 @@ const poems = [
     author: "Luis",
     poem: "Water, water, everywhere, nor any drop to drink",
     image: "water.jpeg",
-  }
+  },
+  {
+    author: "sasha",
+    poem: "Roses are red \n Violets are blue \n this ain't a good poem \n now you make one too",
+    image: "sashas-sun.jpg",
+  },
 ];
 
 let displayPoems = (array) => {
